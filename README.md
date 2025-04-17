@@ -8,6 +8,7 @@
   </span>
 </div>
 
+<br> 
 <div align="center">
   <span>
     <a href="https://choosealicense.com/licenses/mit/">
@@ -120,10 +121,3 @@ Need help? Reach out to the maintainer via:
 
 This project is licensed under the **MIT license**, giving you the freedom to use, modify, and distribute the software while respecting the conditions of the license.  
 See the [LICENSE](https://github.com/Dhuky/GPIO-Control/blob/main/LICENSE) file for more information.
-
----
-
-=======
-# GPIO-Control
-Readme in the construction phase
->>>>>>> a1df174f0331c141df7a96058de696d559ab3766
