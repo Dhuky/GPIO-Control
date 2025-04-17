@@ -126,16 +126,6 @@ See the [LICENSE](https://github.com/Dhuky/GPIO-Control/blob/main/LICENSE) file 
 
 ---
 
-### Acknowledgements
-
-Special thanks to the following resources and tools that inspired or contributed to this project:
-- [ESP-IDF Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/)
-- [PlatformIO IDE](https://platformio.org/)
-- [How to Write a Great README](https://thoughtbot.com/blog/how-to-write-a-great-readme)
-- [Make a README](https://www.makeareadme.com/)
-- [Best README Template](https://github.com/othneildrew/Best-README-Template)
-- [Badges and Shields](https://github.com/badges/shields)
-- Various contributors and tutorials from the GitHub community
 =======
 # GPIO-Control
 Readme in the construction phase
