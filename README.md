@@ -81,7 +81,10 @@ Before starting, make sure you have the following:
 ### Schematic Diagram
 Here is a basic schematic diagram for assembly using the **ESP32 DevKit V1**:
 
-![Schematic Diagram](images/scheme.png)
+<div align="center">
+  <img src="images/scheme.png" alt="Schematic Diagram">
+</div>
+
 
 ### Required Components:
 - 1 x **ESP32** board
