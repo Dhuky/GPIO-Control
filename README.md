@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">GPIO Control Interface for Esp-idf</h1>
 
 <div align="center">
@@ -132,3 +133,7 @@ Special thanks to the following resources and tools that inspired or contributed
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
 - [Badges and Shields](https://github.com/badges/shields)
 - Various contributors and tutorials from the GitHub community
+=======
+# GPIO-Control
+Readme in the construction phase
+>>>>>>> a1df174f0331c141df7a96058de696d559ab3766
