@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">GPIO Control Interface for Esp-idf</h1>
 
 <div align="center">
@@ -8,8 +7,6 @@
     <a href="https://github.com/Dhuky/GPIO-Control/discussions">Ask a Question</a>
   </span>
 </div>
-
----
 
 <div align="center">
   <span>
